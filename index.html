@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stroke Risk Prediction</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Stroke Risk Assessment</h2>
+        <p>Enter values (0 = No, 1 = Yes) for each attribute:</p>
+
+        <form id="strokeForm">
+            <label>Gender:</label>
+            <input type="number" id="gender" min="0" max="1" required>
+
+            <label>Hypertension:</label>
+            <input type="number" id="hypertension" min="0" max="1" required>
+
+            <label>Heart Disease:</label>
+            <input type="number" id="heartDisease" min="0" max="1" required>
+
+            <label>Ever Married:</label>
+            <input type="number" id="everMarried" min="0" max="1" required>
+
+            <label>Work Type:</label>
+            <input type="number" id="workType" min="0" max="1" required>
+
+            <label>Residence Type:</label>
+            <input type="number" id="residenceType" min="0" max="1" required>
+
+            <label>Smoking Status:</label>
+            <input type="number" id="smokingStatus" min="0" max="1" required>
+
+            <label>Diabetes:</label>
+            <input type="number" id="diabetes" min="0" max="1" required>
+
+            <label>Physical Activity:</label>
+            <input type="number" id="physicalActivity" min="0" max="1" required>
+
+            <label>Obesity:</label>
+            <input type="number" id="obesity" min="0" max="1" required>
+
+            <label>Chronic Disease:</label>
+            <input type="number" id="chronicDisease" min="0" max="1" required>
+
+            <label>Alcohol Consumption:</label>
+            <input type="number" id="alcoholConsumption" min="0" max="1" required>
+
+            <label>Family Stroke History:</label>
+            <input type="number" id="familyHistory" min="0" max="1" required>
+
+            <button type="button" onclick="predictStroke()">Predict</button>
+        </form>
+
+        <div id="result"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
