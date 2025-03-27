@@ -14,4 +14,17 @@
 **Project:** ML-Based Stroke Risk Prediction
 
 **Objective:**
-Perform a Logistic Regression  on the Patients' health from the Dataset within 13 attributes of their health conditions and to uncover insights in the way patient can get a heartattack or not.
+Perform a Logistic Regression  on the Patients' health from the Dataset within 13 attributes of their health conditions to uncover insights into whether patients can get a heart attack and future enhancement with a Static UI.
+
+## Technologies
+- Python
+- VS Code
+- Numpy
+- Pandas
+- train_test_split
+- Logistic Regression
+- Accuracy Score
+- Warnings
+- HTML
+- JS
+- CSS
