@@ -16,18 +16,6 @@
 **Objective:**
 Perform a Logistic Regression  on the Patients' health from the Dataset within 13 attributes of their health conditions to uncover insights into whether patients can get a heart attack and future enhancement with a Static UI.
 
-## Technologies
-- Python
-- VS Code
-- Numpy
-- Pandas
-- train_test_split
-- Logistic Regression
-- Accuracy Score
-- Warnings
-- HTML
-- JS
-- CSS
 
 ## Key Activities
 # Heart Disease Prediction System
@@ -61,6 +49,19 @@ Perform a Logistic Regression  on the Patients' health from the Dataset within 1
 3. Enter `0` or `1` for each health factor.
 4. Click "Predict" to see the results.
 
+
+## Technologies
+- Python
+- VS Code
+- Numpy
+- Pandas
+- train_test_split
+- Logistic Regression
+- Accuracy Score
+- Warnings
+- HTML
+- JS
+- CSS
 
 
 
