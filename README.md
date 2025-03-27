@@ -52,17 +52,10 @@ Perform a Logistic Regression  on the Patients' health from the Dataset within 1
 
 ## Technologies
 - Python
-- VS Code
-- Numpy
-- Pandas
-- train_test_split
-- Logistic Regression
-- Accuracy Score
-- Warnings
 - HTML
 - JS
 - CSS
-
+- VS Code
 
 
 
