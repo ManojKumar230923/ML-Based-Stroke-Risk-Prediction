@@ -29,9 +29,9 @@ Perform a Logistic Regression  on the Patients' health from the Dataset within 1
 - JS
 - CSS
 
-  ## Key Activities
-  # Heart Disease Prediction System
-  ### 1. Data Preprocessing
+## Key Activities
+# Heart Disease Prediction System
+### 1. Data Preprocessing
 - Load and clean the dataset.
 - Handle missing values and perform data imputation.
 
@@ -61,10 +61,7 @@ Perform a Logistic Regression  on the Patients' health from the Dataset within 1
 3. Enter `0` or `1` for each health factor.
 4. Click "Predict" to see the results.
 
-## Overview
-This project aims to predict heart disease risk based on user input. The system utilizes a logistic regression model trained on heart disease data and provides a simple static UI for user interaction.
 
-## Key Activities
 
 
 
